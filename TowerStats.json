@@ -617,6 +617,162 @@
             }
         ]
     },
+     "CoolKid": {
+        "Type": "Single",
+        "Image": "rbxassetid://102737638255256",
+        "Rarity": "Epic",
+        "PlacePrice": 1200,
+        "Max": 2,
+        "AnimationOffset": -5,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 9,
+                "Damage": 500,
+                "Cooldown": 4
+            },
+            {
+                "Price": 1900,
+                "Range": 12,
+                "Damage": 1000,
+                "Cooldown": 4
+            },
+            {
+                "Price": 3000,
+                "Range": 13,
+                "Damage": 1200,
+                "Cooldown": 3
+            },
+            {
+                "Price": 9000,
+                "Range": 18,
+                "Damage": 2000,
+                "Cooldown": 3
+            }
+        ]
+    },
+        "John Doe": {
+        "Type": "AOE",
+        "Image": "rbxassetid://140688313291935",
+        "Rarity": "Mythic",
+        "PlacePrice": 6000,
+        "Max": 1,
+        "AnimationOffset": -5,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 50,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 7000,
+                "Range": 15,
+                "Damage": 150,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 10000,
+                "Range": 20,
+                "Damage": 550,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 20000,
+                "Range": 25,
+                "Damage": 850,
+                "Cooldown": 0.005
+            }
+        ]
+    },
+     "1x1x1x1": {
+        "Type": "AOE",
+        "Image": "rbxassetid://134438187101875",
+        "Rarity": "Nightmare",
+        "PlacePrice": 11111,
+        "Max": 2,
+        "AnimationOffset": -5,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 12,
+                "Damage": 150,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 15000,
+                "Range": 15,
+                "Damage": 550,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 20000,
+                "Range": 20,
+                "Damage": 1000,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 70000,
+                "Range": 45,
+                "Damage": 5000,
+                "Cooldown": 0.0005
+            }
+        ]
+    },
+         "Tubers93": {
+        "Type": "Single",
+        "Image": "rbxassetid://77304685065152",
+        "Rarity": "Secret",
+        "PlacePrice": 500,
+        "Max": 3,
+        "AnimationOffset": -5,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 13,
+                "Damage": 125,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 800,
+                "Range": 15,
+                "Damage": 250,
+                "Cooldown": 0.20
+            },
+            {
+                "Price": 900,
+                "Range": 15,
+                "Damage": 550,
+                "Cooldown": 0.15
+            },
+            {
+                "Price": 1200,
+                "Range": 45,
+                "Damage": 625,
+                "Cooldown": 0.5
+            }
+        ]
+    },
     "Golden Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://17629034232",
