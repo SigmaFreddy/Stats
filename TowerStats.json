@@ -2909,8 +2909,8 @@
     "Glitched Puppeteer": {
         "Type": "Splash",
         "Image": "rbxassetid://18887217738",
-        "Rarity": "Nightmare",
-        "PlacePrice": 20000,
+        "Rarity": "Secret",
+        "PlacePrice": 15000,
         "Offset": 0.7,
         "Max": 3,
         "hitboxOffset": {
@@ -2922,30 +2922,69 @@
             {
                 "Price": 0,
                 "Range": 30,
-                "Damage": 4000,
+                "Damage": 1000,
+                "Cooldown": 4
+            },
+            {
+                "Price": 5000,
+                "Range": 33,
+                "Damage": 1250,
+                "Cooldown": 4
+            },
+            {
+                "Price": 10000,
+                "Range": 36,
+                "Damage": 2600,
                 "Cooldown": 4
             },
             {
                 "Price": 25000,
-                "Range": 33,
-                "Damage": 4750,
-                "Cooldown": 3.85
-            },
-            {
-                "Price": 30000,
-                "Range": 36,
-                "Damage": 5500,
-                "Cooldown": 3.7
-            },
-            {
-                "Price": 40000,
                 "Range": 40,
-                "Damage": 6500,
-                "Cooldown": 3.5
+                "Damage": 6000,
+                "Cooldown": 4
             }
         ]
     },
-"Glitched CupCake": {
+    "Binary Coded Mangle": {
+        "Type": "Splash",
+        "Image": "rbxassetid://18887217738",
+        "Rarity": "Mythic",
+        "PlacePrice": 2000,
+        "Offset": 0.7,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 10,
+                "Damage": 125,
+                "Cooldown": 4.5
+            },
+            {
+                "Price": 1100,
+                "Range": 10,
+                "Damage": 250,
+                "Cooldown": 4.25
+            },
+            {
+                "Price": 1010,
+                "Range": 10,
+                "Damage": 1000,
+                "Cooldown": 4
+            },
+            {
+                "Price": 10101,
+                "Range": 10,
+                "Damage": 2500,
+                "Cooldown": 3
+            }
+        ]
+    },
+    "Glitched CupCake": {
         "Type": "AOE",
         "Image": "rbxassetid://18888327109",
         "Rarity": "Epic",
